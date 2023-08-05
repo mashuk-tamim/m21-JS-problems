@@ -20,3 +20,8 @@ else
     else
         console.log('Smallest number: ',c);
 }
+
+let min= Math.min(a, b, c);
+let max=Math.max(a, b, c);
+console.log('smallest:', min);
+console.log('largest:', max);
